@@ -46,4 +46,4 @@ Correlation
 ![Correlation](https://github.com/user-attachments/assets/6b153c1c-0c56-4b66-840d-f9e783fba984)
 
 You can find detailes report here.
-[Project Lok Sabha Election Analysis.pdf](https://github.com/user-attachments/files/18260082/Project.Lok.Sabha.Election.Analysis.pdf)
+https://github.com/Vikas-engg1/Election-Analysis/blob/main/Project%20Lok%20Sabha%20Election%20Analysis.pdf
