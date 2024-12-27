@@ -24,5 +24,7 @@ It provides a comprehensive analysis of Lok Sabha Elections in India.
 ![model_1](https://github.com/user-attachments/assets/822161b4-4e40-4970-8462-2010fd3cb705)
 
 ## Dashboard Designs
-Statewise Analysis:
+Statewise/Constituencies Analysis:
+![state](https://github.com/user-attachments/assets/c1c54284-071d-4ba1-b878-5ebadeef283c)
 
+Parties Analysis:
