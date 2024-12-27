@@ -31,3 +31,15 @@ Parties Analysis:
 ![party_data](https://github.com/user-attachments/assets/04954192-4c76-44b6-91b3-5750dc332207)
 
 Candidates Analysis:
+![cand_data](https://github.com/user-attachments/assets/542a2726-d98f-4f22-88fa-1dc283840ce3)
+
+Vote Split Analysis:
+
+
+Top 2 Parties Comparison:
+
+
+10% Vote Share
+
+
+Correlation
