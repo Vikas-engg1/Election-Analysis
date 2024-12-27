@@ -28,3 +28,6 @@ Statewise/Constituencies Analysis:
 ![state](https://github.com/user-attachments/assets/c1c54284-071d-4ba1-b878-5ebadeef283c)
 
 Parties Analysis:
+![party_data](https://github.com/user-attachments/assets/04954192-4c76-44b6-91b3-5750dc332207)
+
+Candidates Analysis:
