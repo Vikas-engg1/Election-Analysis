@@ -37,7 +37,7 @@ Vote Split Analysis:
 ![votesplit%](https://github.com/user-attachments/assets/b3b6c38b-b595-456e-96bb-7fae863de05b)
 
 Top 2 Parties Comparison:
-
+![parties_comparison](https://github.com/user-attachments/assets/b9972398-bd08-404b-80cf-b9171c65e3ff)
 
 10% Vote Share
 
