@@ -22,3 +22,7 @@ It provides a comprehensive analysis of Lok Sabha Elections in India.
 
 ## Data Model
 ![model_1](https://github.com/user-attachments/assets/822161b4-4e40-4970-8462-2010fd3cb705)
+
+## Dashboard Designs
+
+
