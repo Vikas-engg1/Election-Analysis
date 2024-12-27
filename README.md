@@ -34,7 +34,7 @@ Candidates Analysis:
 ![cand_data](https://github.com/user-attachments/assets/542a2726-d98f-4f22-88fa-1dc283840ce3)
 
 Vote Split Analysis:
-
+![votesplit%](https://github.com/user-attachments/assets/b3b6c38b-b595-456e-96bb-7fae863de05b)
 
 Top 2 Parties Comparison:
 
