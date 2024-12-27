@@ -40,6 +40,6 @@ Top 2 Parties Comparison:
 ![parties_comparison](https://github.com/user-attachments/assets/b9972398-bd08-404b-80cf-b9171c65e3ff)
 
 10% Vote Share
-
+![10%vs](https://github.com/user-attachments/assets/e0c95a07-5f9b-456b-ba59-5df61b536129)
 
 Correlation
