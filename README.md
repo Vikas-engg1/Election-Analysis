@@ -1,7 +1,7 @@
 # Election-Analysis
 It provides a comprehensive analysis of Lok Sabha Elections in India.
 # Lok Sabha Election Analysis
- **Project Overview: **  
+ Project Overview:   
  AtliQ Media, a private media company, is preparing for their Lok Sabha 2024 election show. Unlike conventional debates, they aim to present unbiased insights from the 2014 and 2019 elections, exploring less-discussed themes such as voter turnout trends.
 ## Tech stacks
 - SQL
@@ -24,5 +24,5 @@ It provides a comprehensive analysis of Lok Sabha Elections in India.
 ![model_1](https://github.com/user-attachments/assets/822161b4-4e40-4970-8462-2010fd3cb705)
 
 ## Dashboard Designs
-
+Statewise Analysis:
 
